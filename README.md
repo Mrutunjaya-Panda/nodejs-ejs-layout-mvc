@@ -26,7 +26,7 @@ A Node.js MVC application that fetches user data from a third-party API using Ax
 ---
 
 ## Project Structure
-
+```
 nodejs-ejs-layout-mvc/
 │
 ├── controllers/
@@ -46,7 +46,7 @@ nodejs-ejs-layout-mvc/
 ├── app.js
 ├── package.json
 └── README.md
-
+```
 
 ---
 
